@@ -1,4 +1,4 @@
 def call() {
     // Your logic here...
-    echo 'Hello, world!'
+    bat "echo Hello World"
 }
